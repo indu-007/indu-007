@@ -6,7 +6,7 @@
 *****************************************************************************************
 - 👋 Hi, I’m Indu Lingala (@indu-007) ✌️
 - 👀 I’m interested in Bioengineering
-- 🌱 I’m currently learning Python in a Intermediate Data Programing Class at NCHS
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to sing.
 *****************************************************************************************
